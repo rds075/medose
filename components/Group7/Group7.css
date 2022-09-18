@@ -1,0 +1,153 @@
+.group-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 3px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 22px;
+  min-height: 299px;
+  padding: 28.5px 16px;
+  width: 384px;
+}
+
+.flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 149px;
+  width: 351px;
+}
+
+.when-to-consult-a-psychologist {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.most-people-experien {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 3px;
+  margin-top: 17px;
+  min-height: 63px;
+  white-space: nowrap;
+}
+
+.address-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 19px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 73px;
+  margin-top: 13px;
+  min-width: 343px;
+}
+
+.flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 70px;
+  width: 88px;
+}
+
+.icon-heart-1 {
+  height: 28px;
+  margin-right: 2.75px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.address-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 15px;
+  min-height: 27px;
+  min-width: 88px;
+  white-space: nowrap;
+}
+
+.flex-col-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 41px;
+  min-height: 73px;
+  width: 97px;
+}
+
+.path-container-8 {
+  height: 32px;
+  margin-right: 0.59px;
+  position: relative;
+  width: 32px;
+}
+
+.path-26-1 {
+  height: 19px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.path-27-1 {
+  height: 32px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.address-5 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 14px;
+  min-height: 27px;
+  min-width: 97px;
+  white-space: nowrap;
+}
+
+.flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 71px;
+  min-height: 71px;
+  width: 46px;
+}
+
+.icon-bookmark-1 {
+  height: 30px;
+  margin-right: 2.68px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.save-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 14px;
+  min-height: 27px;
+  min-width: 46px;
+  white-space: nowrap;
+}
+
+.group-7.group-7-1 {
+  left: 0;
+  margin-top: unset;
+  position: absolute;
+  top: 292px;
+}
+

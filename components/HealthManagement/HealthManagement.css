@@ -1,0 +1,324 @@
+.health-management {
+  align-items: flex-start;
+  background-color: #dfdfdf;
+  display: flex;
+  flex-direction: column;
+  height: 595px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.icon-awesome-arrow-left {
+  display: block;
+  height: 18px;
+  margin-left: 22.0px;
+  margin-top: 12px;
+  object-fit: cover;
+  opacity: 0;
+  transform: translate(25px, 0);
+  width: 19px;
+}
+
+.icon-awesome-arrow-left.animate-enter85 {
+  animation: animate-enter85-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.overlap-group1-9 {
+  border-radius: 20px;
+  height: 200px;
+  margin-top: 108px;
+  position: relative;
+  width: 428px;
+}
+
+.rectangle-73 {
+  background-color: #f8ebf4;
+  border-radius: 20px;
+  height: 200px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(25px, 0);
+  width: 428px;
+}
+
+.rectangle-73.animate-enter77 {
+  animation: animate-enter77-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.rectangle-74 {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 39px;
+  left: 22px;
+  opacity: 0;
+  position: absolute;
+  top: 121px;
+  transform: translate(25px, 0);
+  width: 384px;
+}
+
+.rectangle-74.animate-enter78 {
+  animation: animate-enter78-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.buy-now-for-rs-0-only {
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  top: 128px;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.buy-now-for-rs-0-only.animate-enter79 {
+  animation: animate-enter79-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.icon-ionic-ios-arrow-dropleft {
+  height: 20px;
+  left: 355px;
+  opacity: 0;
+  position: absolute;
+  top: 130px;
+  transform: translate(25px, 0);
+  width: 20px;
+}
+
+.icon-ionic-ios-arrow-dropleft.animate-enter80 {
+  animation: animate-enter80-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.path-container-25 {
+  height: 21px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 21px;
+}
+
+.path-90 {
+  height: 10px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-182.00deg);
+  width: 10px;
+}
+
+.path-91 {
+  height: 21px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  transform: rotate(-182.00deg);
+  width: 21px;
+}
+
+.overlap-group2-7 {
+  border-radius: 20px;
+  height: 64px;
+  margin-top: 132px;
+  position: relative;
+  width: 428px;
+}
+
+.rectangle-75 {
+  background-color: #fbf1f8;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 64px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(25px, 0);
+  width: 428px;
+}
+
+.rectangle-75.animate-enter81 {
+  animation: animate-enter81-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.rectangle-76 {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 28px;
+  left: 22px;
+  opacity: 0;
+  position: absolute;
+  top: 21px;
+  transform: translate(25px, 0);
+  width: 384px;
+}
+
+.rectangle-76.animate-enter82 {
+  animation: animate-enter82-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.request-a-callback {
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  top: 22px;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.request-a-callback.animate-enter83 {
+  animation: animate-enter83-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.icon-call {
+  display: block;
+  height: 22px;
+  left: 350px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 23px;
+  transform: translate(25px, 0);
+  width: 22px;
+}
+
+.icon-call.animate-enter84 {
+  animation: animate-enter84-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.path-88 {
+  align-self: center;
+  display: block;
+  height: 7px;
+  margin-left: 0.01px;
+  margin-top: 60px;
+  object-fit: cover;
+  opacity: 0;
+  transform: translate(25px, 0);
+  width: 6px;
+}
+
+.path-88.animate-enter76 {
+  animation: animate-enter76-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+@keyframes animate-enter79-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter85-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter77-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter83-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter78-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter84-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter81-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter80-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter76-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter82-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+

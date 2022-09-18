@@ -1,0 +1,42 @@
+.icon-feather-book-1,
+.icon-feather-book-2,
+.icon-feather-book-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 23.7px;
+  justify-content: center;
+  margin-right: 2.2px;
+  min-width: 18.96px;
+}
+
+.path-container-13,
+.path-container-14,
+.path-container-15 {
+  height: 26px;
+  margin-top: -1.0px;
+  position: relative;
+  width: 21px;
+}
+
+.path-17-1,
+.path-17-2,
+.path-17-3 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 21px;
+}
+
+.path-18-1,
+.path-18-2,
+.path-18-3 {
+  height: 26px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+

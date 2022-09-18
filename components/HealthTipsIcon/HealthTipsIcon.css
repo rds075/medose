@@ -1,0 +1,725 @@
+.health-tips-icon {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1298px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.health-tips-3 {
+  height: 86px;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  transform: translate(25px, 0);
+  width: 798px;
+  z-index: 3;
+}
+
+.health-tips-3.animate-enter35 {
+  animation: animate-enter35-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.overlap-group11-1 {
+  height: 86px;
+  position: relative;
+}
+
+.rectangle-72 {
+  background-color: var(--white);
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.icon-ionic-md-arrow-back-1 {
+  height: 20px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 20px;
+}
+
+.group-11 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  left: 22px;
+  min-width: 776px;
+  position: absolute;
+  top: 62px;
+}
+
+.overlap-group1-7 {
+  height: 22px;
+  margin-bottom: -2.5px;
+  position: relative;
+  width: 40px;
+}
+
+.rectangle-61 {
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.price-1 {
+  -webkit-text-stroke: 1px transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.overlap-group2-5 {
+  height: 22px;
+  margin-bottom: -2.5px;
+  margin-left: 5px;
+  position: relative;
+  width: 45px;
+}
+
+.rectangle-62 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.saved,
+.covid-19 {
+  -webkit-text-stroke: 1px transparent;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.overlap-group-6 {
+  height: 22px;
+  margin-bottom: -2.5px;
+  margin-left: 5px;
+  position: relative;
+  width: 60px;
+}
+
+.rectangle {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.overlap-group7-1 {
+  height: 22px;
+  margin-bottom: -2.5px;
+  margin-left: 5px;
+  position: relative;
+  width: 90px;
+}
+
+.rectangle-64 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 90px;
+}
+
+.advancement,
+.awarness,
+.lifestyle {
+  -webkit-text-stroke: 1px transparent;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.overlap-group8-1 {
+  height: 22px;
+  margin-bottom: -2.5px;
+  margin-left: 3px;
+  position: relative;
+  width: 40px;
+}
+
+.rectangle-65 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.diet,
+.medicines-1 {
+  -webkit-text-stroke: 1px transparent;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.exercise,
+.sleep-and-relaxation,
+.self-care {
+  -webkit-text-stroke: 1px transparent;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.overlap-group9-1 {
+  height: 22px;
+  margin-bottom: -2.5px;
+  margin-left: 3px;
+  position: relative;
+  width: 70px;
+}
+
+.rectangle-6 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.overlap-group-7 {
+  height: 22px;
+  margin-bottom: -1.5px;
+  margin-left: 10px;
+  position: relative;
+  width: 125px;
+}
+
+.rectangle-68 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.overlap-group5-2 {
+  height: 22px;
+  margin-bottom: -0.5px;
+  margin-left: 4px;
+  position: relative;
+  width: 70px;
+}
+
+.overlap-group6-2 {
+  align-self: center;
+  height: 22px;
+  margin-left: 7px;
+  margin-top: 0.5px;
+  position: relative;
+  width: 60px;
+}
+
+.overlap-group3-3 {
+  align-self: flex-start;
+  height: 22px;
+  margin-left: 4px;
+  position: relative;
+  width: 65px;
+}
+
+.rectangle-71 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.health-tips-4 {
+  -webkit-text-stroke: 1px transparent;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.group-8-1 {
+  height: 591px;
+  margin-right: 4.0px;
+  margin-top: 115px;
+  opacity: 0;
+  position: relative;
+  transform: translate(25px, 0);
+  width: 384px;
+  z-index: 1;
+}
+
+.group-8-1.animate-enter33 {
+  animation: animate-enter33-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.d4-removebg-preview-1 {
+  height: 90px;
+  left: 243px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 90px;
+}
+
+.d_1-removebg-preview-1 {
+  height: 106px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.d2-removebg-preview-1 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 142px;
+  width: 178px;
+}
+
+.d3-removebg-preview-1 {
+  height: 90px;
+  left: 229px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 119px;
+}
+
+.schizophrenia-1 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.depression-2 {
+  left: 252px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.anxiety-disorder-1 {
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+}
+
+.post-traumatic-stress-1 {
+  left: 211px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+}
+
+.group-15 {
+  height: 173px;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 664px;
+  transform: translate(25px, 0);
+  width: 428px;
+  z-index: 4;
+}
+
+.group-15.animate-enter36 {
+  animation: animate-enter36-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.overlap-group12-1 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 203px;
+  justify-content: flex-end;
+  left: -15px;
+  min-width: 458px;
+  padding: 22.0px 36.0px;
+  position: relative;
+  top: -17px;
+}
+
+.home-2 {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  justify-content: space-between;
+  margin-top: 2.07px;
+  width: 32px;
+}
+
+.icon-home-2 {
+  flex: 1;
+  height: 26.74px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  max-height: 26.74px;
+  object-fit: cover;
+}
+
+.place-2 {
+  flex: 1;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-bottom: -4.5px;
+  margin-left: 0.3px;
+  margin-right: -0.8px;
+  max-height: 17px;
+  white-space: nowrap;
+}
+
+.dairy-3 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 46px;
+  justify-content: space-between;
+  margin-left: 44px;
+  margin-top: 3.94px;
+  position: relative;
+  width: 28px;
+}
+
+.diary-2 {
+  flex: 1;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-bottom: -4.5px;
+  margin-right: -2px;
+  max-height: 17px;
+  white-space: nowrap;
+}
+
+.health-tip-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-top: 3.0px;
+  min-height: 47px;
+  width: 56px;
+}
+
+.icon-light_bulb-2 {
+  height: 26px;
+  margin-right: 2.87px;
+  object-fit: cover;
+  width: 18px;
+}
+
+.health-tips-5 {
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-top: 8px;
+  min-height: 17px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.menu-4 {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  justify-content: space-between;
+  margin-left: 44px;
+  margin-top: 7.09px;
+  width: 30px;
+}
+
+.icon-metro-menu-2 {
+  flex: 1;
+  height: 16.17px;
+  margin-left: 1.8px;
+  margin-right: 1.9px;
+  margin-top: 0;
+  max-height: 16.17px;
+  object-fit: cover;
+}
+
+.menu-5 {
+  flex: 1;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-bottom: -4.5px;
+  margin-right: -2px;
+  max-height: 17px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.group-9-1 {
+  height: 442px;
+  margin-right: 0;
+  margin-top: 39px;
+  opacity: 0;
+  position: relative;
+  transform: translate(25px, 0);
+  width: 384px;
+  z-index: 2;
+}
+
+.group-9-1.animate-enter34 {
+  animation: animate-enter34-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.overlap-group1-8 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 255px;
+  padding: 18.1px 15.9px;
+  position: absolute;
+  top: 186px;
+  width: 384px;
+}
+
+.can-alprazolam-help-depression-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.alprazolam-commonly-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 2.0px;
+  margin-top: 1px;
+  min-height: 63px;
+  white-space: nowrap;
+}
+
+.address-9 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 13px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.flex-row-8 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-left: 6.6px;
+  margin-top: 17px;
+  min-width: 303px;
+}
+
+.icon-heart-3 {
+  height: 28px;
+  margin-bottom: 1.46px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.path-container-17 {
+  height: 32px;
+  margin-left: 102px;
+  position: relative;
+  width: 32px;
+}
+
+.path-26-3 {
+  height: 19px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.path-27-3 {
+  height: 32px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.icon-bookmark-3 {
+  align-self: flex-end;
+  height: 30px;
+  margin-bottom: 0.63px;
+  margin-left: 109px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.flex-row-9 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  margin-top: 10px;
+  min-width: 340px;
+}
+
+.address-10 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 27px;
+  min-width: 88px;
+  white-space: nowrap;
+}
+
+.address-11 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 39px;
+  min-height: 27px;
+  min-width: 97px;
+  white-space: nowrap;
+}
+
+.save-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 70px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.tablet-1-1 {
+  height: 162px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+
+@keyframes animate-enter33-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter36-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter34-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter35-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+

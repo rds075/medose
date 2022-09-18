@@ -1,0 +1,21 @@
+.add {
+  align-items: flex-start;
+  background-color: var(--royal-heath);
+  border-radius: 22.5px;
+  display: flex;
+  height: 45px;
+  margin-left: 51px;
+  min-width: 45px;
+  padding: 12.0px 12.0px;
+}
+
+.icon-ionic-ios-add {
+  height: 21px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.add.add-3 {
+  margin-left: 50px;
+}
+

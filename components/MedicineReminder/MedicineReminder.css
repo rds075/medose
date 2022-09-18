@@ -1,0 +1,697 @@
+.medicine-reminder {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 755px;
+  padding: 9px 0;
+  width: 428px;
+}
+
+.overlap-group6-3 {
+  height: 116px;
+  position: relative;
+  width: 428px;
+}
+
+.rectangle-60 {
+  background-color: var(--white);
+  height: 116px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(25px, 0);
+  width: 428px;
+}
+
+.rectangle-60.animate-enter86 {
+  animation: animate-enter86-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.icon-ionic-md-arrow-back-2 {
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: 22px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 26px;
+  transform: translate(25px, 0);
+  width: 20px;
+}
+
+.icon-ionic-md-arrow-back-2.animate-enter87 {
+  animation: animate-enter87-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.digital-diary-2 {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 21px;
+  opacity: 0;
+  position: absolute;
+  top: 25px;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.digital-diary-2.animate-enter88 {
+  animation: animate-enter88-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.link-bar {
+  height: 41px;
+  left: 275px;
+  opacity: 0;
+  position: absolute;
+  top: 14px;
+  transform: translate(25px, 0);
+  width: 129px;
+}
+
+.link-bar.animate-enter89 {
+  animation: animate-enter89-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.overlap-group2-8 {
+  height: 41px;
+  position: relative;
+}
+
+.rectangle-52-1 {
+  background-color: var(--cinderella);
+  height: 30px;
+  left: 9px;
+  position: absolute;
+  top: 6px;
+  width: 108px;
+}
+
+.ellipse-8-1 {
+  background-color: var(--royal-heath);
+  border-radius: 15px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 30px;
+}
+
+.overlap-group-8 {
+  align-items: center;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 16px;
+  left: 49px;
+  min-width: 34px;
+  padding: 0 10.5px;
+  position: absolute;
+  top: 12px;
+}
+
+.path-67-1 {
+  height: 2px;
+  object-fit: cover;
+  width: 14px;
+}
+
+.path-container-26 {
+  height: 16px;
+  left: 7px;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.path-68-2 {
+  height: 16px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.path-69-2 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 16px;
+}
+
+.ellipse-9-1 {
+  background-color: var(--fuscous-gray);
+  border-radius: 15px;
+  height: 30px;
+  left: 99px;
+  position: absolute;
+  top: 6px;
+  width: 30px;
+}
+
+.x415-4153777_google-s-3 {
+  height: 41px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.rectangle-53-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 22px;
+  height: 30px;
+  left: 22px;
+  opacity: 0;
+  position: absolute;
+  top: 63px;
+  transform: translate(25px, 0);
+  width: 384px;
+}
+
+.rectangle-53-1.animate-enter90 {
+  animation: animate-enter90-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.rectangle-54-1 {
+  background-color: var(--bon-jour);
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #bfbfbf29;
+  height: 30px;
+  left: 23px;
+  opacity: 0;
+  position: absolute;
+  top: 63px;
+  transform: translate(25px, 0);
+  width: 183px;
+}
+
+.rectangle-54-1.animate-enter91 {
+  animation: animate-enter91-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.my-health-1 {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 68px;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.my-health-1.animate-enter92 {
+  animation: animate-enter92-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.activity-1 {
+  left: 255px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 68px;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.activity-1.animate-enter93 {
+  animation: animate-enter93-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.capsule {
+  display: block;
+  height: 40px;
+  margin-top: 16px;
+  object-fit: cover;
+  opacity: 0;
+  transform: translate(25px, 0);
+  width: 40px;
+}
+
+.capsule.animate-enter100 {
+  animation: animate-enter100-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.get-medicine-reminde {
+  color: var(--black-2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 48px;
+  min-width: 290px;
+  opacity: 0;
+  text-align: center;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.get-medicine-reminde.animate-enter94 {
+  animation: animate-enter94-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.x1-upload-your-presc {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 2.0px;
+  margin-top: 6px;
+  min-height: 48px;
+  min-width: 206px;
+  opacity: 0;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.x1-upload-your-presc.animate-enter95 {
+  animation: animate-enter95-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.group-12 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  justify-content: space-between;
+  margin-left: 0.33px;
+  margin-top: 14px;
+  opacity: 0;
+  transform: translate(25px, 0);
+  width: 288px;
+}
+
+.group-12.animate-enter99 {
+  animation: animate-enter99-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.icon-feather-upload {
+  align-items: flex-start;
+  display: flex;
+  height: 12.98px;
+  justify-content: center;
+  margin-bottom: -4.9px;
+  margin-left: 30.5px;
+  min-width: 15.75px;
+}
+
+.path-container-27 {
+  height: 15px;
+  margin-top: -1.0px;
+  position: relative;
+  width: 18px;
+}
+
+.path-82 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 18px;
+}
+
+.path-83 {
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.path-84 {
+  height: 9px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.upload-prescription {
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: 16px;
+  font-weight: 600;
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-bottom: 8.1px;
+  margin-right: 39.3px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.or {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -7px;
+  margin-left: 3.0px;
+  margin-top: 8px;
+  min-height: 23px;
+  min-width: 23px;
+  opacity: 0;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.or.animate-enter96 {
+  animation: animate-enter96-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.et-reminders-container {
+  height: 44px;
+  margin-left: 3.0px;
+  margin-top: 8px;
+  position: relative;
+  width: 185px;
+}
+
+.set-reminders-manually {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.set-reminders-manually.animate-enter97 {
+  animation: animate-enter97-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.click-here-to-get-reminders {
+  color: var(--black-2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  top: 22px;
+  transform: translate(25px, 0);
+  white-space: nowrap;
+}
+
+.click-here-to-get-reminders.animate-enter98 {
+  animation: animate-enter98-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.plus-circle {
+  background-color: var(--royal-heath);
+  border-radius: 15px;
+  height: 30px;
+  margin-top: 25px;
+  opacity: 0;
+  transform: translate(25px, 0);
+  width: 30px;
+}
+
+.plus-circle.animate-enter101 {
+  animation: animate-enter101-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.path-container-28 {
+  height: 16px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 16px;
+}
+
+.path-85 {
+  height: 16px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.path-86 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.path-container-29 {
+  height: 93px;
+  margin-right: 4.79px;
+  margin-top: 15px;
+  position: relative;
+  width: 80px;
+}
+
+.path-87 {
+  display: block;
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(25px, 0);
+  width: 80px;
+}
+
+.path-87.animate-enter102 {
+  animation: animate-enter102-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.path-88-1 {
+  display: block;
+  height: 7px;
+  left: 39px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 86px;
+  transform: translate(25px, 0);
+  width: 6px;
+}
+
+.path-88-1.animate-enter103 {
+  animation: animate-enter103-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+@keyframes animate-enter88-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter100-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter97-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter86-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter101-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter102-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter103-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter89-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter99-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter90-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter96-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter98-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter87-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter91-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter94-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter95-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter93-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter92-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+

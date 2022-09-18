@@ -1,0 +1,145 @@
+.blood-glucose {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 15px;
+  height: 105px;
+  margin-top: 16px;
+  opacity: 0;
+  position: relative;
+  transform: translate(25px, 0);
+  width: 382px;
+  z-index: 6;
+}
+
+.blood-glucose.animate-enter28 {
+  animation: animate-enter28-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.blood-glucose-1 {
+  left: 73px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.x57-of-adults-in-ind {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 48px;
+  white-space: nowrap;
+}
+
+.add-symbol {
+  align-items: flex-end;
+  background-color: var(--cinderella);
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  left: 316px;
+  min-width: 25px;
+  padding: 5.8px 5.8px;
+  position: absolute;
+  top: 11px;
+}
+
+.icon-feather-plus {
+  align-items: flex-start;
+  display: flex;
+  height: 13px;
+  justify-content: flex-end;
+  min-width: 13px;
+}
+
+.path-container-16 {
+  height: 14px;
+  margin-top: -0.75px;
+  position: relative;
+  width: 14px;
+}
+
+.path-68-1 {
+  height: 14px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.path-69-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.glucose-meter {
+  border-radius: 10px;
+  height: 33px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 33px;
+}
+
+.blood-glucose.blood-pressure {
+  margin-top: 23px;
+  z-index: 7;
+}
+
+.blood-glucose.blood-pressure.animate-enter29 {
+  animation: animate-enter29-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+.blood-glucose.heart-rate-1 {
+  margin-right: 2.0px;
+  margin-top: 23px;
+  z-index: 8;
+}
+
+.blood-glucose.heart-rate-1.animate-enter30 {
+  animation: animate-enter30-frames 0.20s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+@keyframes animate-enter30-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter29-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+@keyframes animate-enter28-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
